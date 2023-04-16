@@ -1,4 +1,4 @@
-# research prime numbers
+# Research prime numbers
 
 Okay, so here's a code to find prime numbers. I made a post about prime I found up until 10^8. 
 
